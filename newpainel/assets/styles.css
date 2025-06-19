@@ -1,0 +1,21 @@
+.btn-float {
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#popover-filtros {
+    max-width: 300px;
+}
+
+#popover-filtros .popover-header {
+    font-weight: bold;
+    background-color: #e9ecef;
+}
+
+#popover-filtros .popover-body {
+    font-size: 16px;
+}

@@ -1,0 +1,452 @@
+codigo,neoplasias
+C000,C000 - Neoplasia maligna do lábio superior externo
+C001,C001 - Neoplasia maligna do lábio inferior externo
+C002,"C002 - Neoplasia maligna do lábio externo, não especificado"
+C003,"C003 - Neoplasia maligna do lábio superior, face interna"
+C004,"C004 - Neoplasia maligna do lábio inferior, face interna"
+C005,"C005 - Neoplasia maligna do lábio, sem especificação, face interna"
+C006,C006 - Neoplasia maligna da comissura labial
+C008,C008 - Neoplasia maligna do lábio com lesão invasiva
+C009,"C009 - Neoplasia maligna do lábio, não especificado"
+C01,C01 - Neoplasia maligna da base da língua
+C020,C020 - Neoplasia maligna da face dorsal da língua
+C021,C021 - Neoplasia maligna da borda da língua
+C022,C022 - Neoplasia maligna da face ventral da língua
+C023,"C023 - Neoplasia maligna de dois terços anteriores da língua, parte não especificada"
+C024,C024 - Neoplasia maligna da amígdala lingual
+C028,C028 - Neoplasia maligna da língua com lesão invasiva
+C029,"C029 - Neoplasia maligna da língua, não especificada"
+C030,C030 - Neoplasia maligna da gengiva superior
+C031,C031 - Neoplasia maligna da gengiva inferior
+C039,"C039 - Neoplasia maligna da gengiva, não especificada"
+C040,C040 - Neoplasia maligna do assoalho anterior da boca
+C041,C041 - Neoplasia maligna do assoalho lateral da boca
+C048,C048 - Neoplasia maligna do assoalho da boca com lesão invasiva
+C049,"C049 - Neoplasia maligna do assoalho da boca, não especificado"
+C050,C050 - Neoplasia maligna do palato duro
+C051,C051 - Neoplasia maligna do palato mole
+C052,C052 - Neoplasia maligna da úvula
+C058,C058 - Neoplasia maligna do palato com lesão invasiva
+C059,"C059 - Neoplasia maligna do palato, não especificado"
+C060,C060 - Neoplasia maligna da mucosa oral
+C061,C061 - Neoplasia maligna do vestíbulo da boca
+C062,C062 - Neoplasia maligna da área retromolar
+C068,C068 - Neoplasia maligna de outras partes e de partes não especificadas da boca com lesão invasiva
+C069,"C069 - Neoplasia maligna da boca, não especificada"
+C07,C07 - Neoplasia maligna da glândula parótida
+C080,C080 - Neoplasia maligna da glândula submandibular
+C081,C081 - Neoplasia maligna da glândula sublingual
+C088,C088 - Neoplasia maligna das glândulas salivares maiores com lesão invasiva
+C089,"C089 - Neoplasia maligna da glândula salivar maior, não especificada"
+C090,C090 - Neoplasia maligna da fossa amigdaliana
+C091,C091 - Neoplasia maligna do pilar amigdaliano (anterior) (posterior)
+C098,C098 - Neoplasia maligna da amígdala com lesão invasiva
+C099,"C099 - Neoplasia maligna da amígdala, não especificada"
+C100,C100 - Neoplasia maligna da valécula
+C101,C101 - Neoplasia maligna da face anterior da epiglote
+C102,C102 - Neoplasia maligna da parede lateral da orofaringe
+C103,C103 - Neoplasia maligna da parede posterior da orofaringe
+C104,C104 - Neoplasia maligna da fenda branquial
+C108,C108 - Neoplasia maligna da orofaringe com lesão invasiva
+C109,"C109 - Neoplasia maligna da orofaringe, não especificada"
+C110,C110 - Neoplasia maligna da parede superior da nasofaringe
+C111,C111 - Neoplasia maligna da parede posterior da nasofaringe
+C112,C112 - Neoplasia maligna da parede lateral da nasofaringe
+C113,C113 - Neoplasia maligna da parede anterior da nasofaringe
+C118,C118 - Neoplasia maligna da nasofaringe com lesão invasiva
+C119,"C119 - Neoplasia maligna da nasofaringe, não especificada"
+C12,C12 - Neoplasia maligna do seio piriforme
+C130,C130 - Neoplasia maligna da região pós-cricóidea
+C131,"C131 - Neoplasia maligna da prega ariepiglótica, face hipofaríngea"
+C132,C132 - Neoplasia maligna da parede posterior da hipofaringe
+C138,C138 - Neoplasia maligna da hipofaringe com lesão invasiva
+C139,"C139 - Neoplasia maligna da hipofaringe, não especificada"
+C140,"C140 - Neoplasia maligna da faringe, não especificada"
+C142,C142 - Neoplasia maligna do anel de Waldeyer
+C148,"C148 - Neoplasia maligna do lábio, cavidade oral e faringe com lesão invasiva"
+C150,C150 - Neoplasia maligna da porção cervical do esôfago (esôfago cervical)
+C151,C151 - Neoplasia maligna da porção torácica do esôfago (esôfago torácico)
+C152,C152 - Neoplasia maligna da porção abdominal do esôfago (esôfago abdominal)
+C153,C153 - Neoplasia maligna do terço superior do esôfago
+C154,C154 - Neoplasia maligna do terço médio do esôfago
+C155,C155 - Neoplasia maligna do terço inferior do esôfago
+C158,C158 - Neoplasia maligna do esôfago com lesão invasiva
+C159,"C159 - Neoplasia maligna do esôfago, não especificado"
+C160,C160 - Neoplasia maligna da cárdia
+C161,C161 - Neoplasia maligna do fundo do estômago
+C162,C162 - Neoplasia maligna do corpo do estômago
+C163,C163 - Neoplasia maligna do antro pilórico
+C164,C164 - Neoplasia maligna do piloro
+C165,"C165 - Neoplasia maligna da pequena curvatura do estômago, não especificada"
+C166,"C166 - Neoplasia maligna da grande curvatura do estômago, não especificada"
+C168,C168 - Neoplasia maligna do estômago com lesão invasiva
+C169,"C169 - Neoplasia maligna do estômago, não especificado"
+C170,C170 - Neoplasia maligna do duodeno
+C171,C171 - Neoplasia maligna do jejuno
+C172,C172 - Neoplasia maligna do íleo
+C173,C173 - Neoplasia maligna do divertículo de Meckel
+C178,C178 - Neoplasia maligna do intestino delgado com lesão invasiva
+C179,"C179 - Neoplasia maligna do intestino delgado, não especificado"
+C180,C180 - Neoplasia maligna do ceco
+C181,C181 - Neoplasia maligna do apêndice (vermiforme)
+C182,C182 - Neoplasia maligna do cólon ascendente
+C183,C183 - Neoplasia maligna da flexura (ângulo) hepática(o)
+C184,C184 - Neoplasia maligna do cólon transverso
+C185,C185 - Neoplasia maligna da flexura (ângulo) esplênica(o)
+C186,C186 - Neoplasia maligna do cólon descendente
+C187,C187 - Neoplasia maligna do cólon sigmóide
+C188,C188 - Neoplasia maligna do cólon com lesão invasiva
+C189,"C189 - Neoplasia maligna do cólon, não especificado"
+C19,C19 - Neoplasia maligna da junção retossigmóide
+C20,C20 - Neoplasia maligna do reto
+C210,"C210 - Neoplasia maligna do ânus, não especificado"
+C211,C211 - Neoplasia maligna do canal anal
+C212,C212 - Neoplasia maligna da zona cloacogênica
+C218,"C218 - Neoplasia maligna do reto, ânus e do canal anal com lesão invasiva"
+C220,C220 - Carcinoma de células hepáticas
+C221,C221 - Carcinoma de vias biliares intra-hepáticas
+C222,C222 - Hepatoblastoma
+C223,C223 - Angiossarcoma do fígado
+C224,C224 - Outros sarcomas do fígado
+C227,C227 - Outros carcinomas especificados do fígado
+C229,"C229 - Neoplasia maligna do fígado, não especificada"
+C23,C23 - Neoplasia maligna da vesícula biliar
+C240,C240 - Neoplasia maligna das vias biliares extra-hepáticas
+C241,C241 - Neoplasia maligna da ampola de Vater
+C248,C248 - Neoplasia maligna das vias biliares com lesão invasiva
+C249,"C249 - Neoplasia maligna da via biliar, não especificada"
+C250,C250 - Neoplasia maligna da cabeça do pâncreas
+C251,C251 - Neoplasia maligna do corpo do pâncreas
+C252,C252 - Neoplasia maligna da cauda do pâncreas
+C253,C253 - Neoplasia maligna do canal pancreático
+C254,C254 - Neoplasia maligna do pâncreas endócrino
+C257,C257 - Neoplasia maligna de outras partes do pâncreas
+C258,C258 - Neoplasia maligna do pâncreas com lesão invasiva
+C259,"C259 - Neoplasia maligna do pâncreas, não especificado"
+C260,"C260 - Neoplasia maligna do trato intestinal, parte não especificada"
+C261,C261 - Neoplasia maligna do baço
+C268,C268 - Neoplasia maligna do aparelho digestivo com lesão invasiva
+C269,C269 - Neoplasia maligna de localizações mal definidas dentro do aparelho digestivo
+C300,C300 - Neoplasia maligna da cavidade nasal
+C301,C301 - Neoplasia maligna do ouvido médio
+C310,C310 - Neoplasia maligna do seio maxilar
+C311,C311 - Neoplasia maligna do seio etmoidal
+C312,C312 - Neoplasia maligna do seio frontal
+C313,C313 - Neoplasia maligna do seio esfenoidal
+C318,C318 - Neoplasia maligna dos seios da face com lesão invasiva
+C319,"C319 - Neoplasia maligna do seio da face, não especificado"
+C320,C320 - Neoplasia maligna da glote
+C321,C321 - Neoplasia maligna da região supraglótica
+C322,C322 - Neoplasia maligna da região subglótica
+C323,C323 - Neoplasia maligna das cartilagens da laringe
+C328,C328 - Neoplasia maligna da laringe com lesão invasiva
+C329,"C329 - Neoplasia maligna da laringe, não especificada"
+C33,C33 - Neoplasia maligna da traquéia
+C340,C340 - Neoplasia maligna do brônquio principal
+C341,"C341 - Neoplasia maligna do lobo superior, brônquio ou pulmão"
+C342,"C342 - Neoplasia maligna do lobo médio, brônquio ou pulmão"
+C343,"C343 - Neoplasia maligna do lobo inferior, brônquio ou pulmão"
+C348,C348 - Neoplasia maligna dos brônquios e dos pulmões com lesão invasiva
+C349,"C349 - Neoplasia maligna dos brônquios ou pulmões, não especificado"
+C37,C37 - Neoplasia maligna do timo
+C380,C380 - Neoplasia maligna do coração
+C381,C381 - Neoplasia maligna do mediastino anterior
+C382,C382 - Neoplasia maligna do mediastino posterior
+C383,"C383 - Neoplasia maligna do mediastino, porção não especificada"
+C384,C384 - Neoplasia maligna da pleura
+C388,"C388 - Neoplasia maligna do coração, mediastino e pleura com lesão invasiva"
+C390,"C390 - Neoplasia maligna do trato respiratório superior, porção não especificada"
+C398,C398 - Neoplasia maligna do aparelho respiratório e dos órgãos intratorácicos com lesão invasiva
+C399,C399 - Neoplasia maligna de localizações mal definidas do aparelho respiratório
+C400,C400 - Neoplasia maligna da omoplata [escápula] e ossos longos dos membros superiores
+C401,C401 - Neoplasia maligna dos ossos curtos dos membros superiores
+C402,C402 - Neoplasia maligna dos ossos longos dos membros inferiores
+C403,C403 - Neoplasia maligna dos ossos curtos dos membros inferiores
+C408,C408 - Neoplasia maligna dos ossos e cartilagens articulares dos membros com lesão invasiva
+C409,C409 - Neoplasia maligna dos ossos e cartilagens articulares de membro não especificado
+C410,C410 - Neoplasia maligna dos ossos do crânio e da face
+C411,C411 - Neoplasia maligna da mandíbula
+C412,C412 - Neoplasia maligna da coluna vertebral
+C413,"C413 - Neoplasia maligna das costelas, esterno e clavícula"
+C414,"C414 - Neoplasia maligna dos ossos da pelve, sacro e cóccix"
+C418,C418 - Neoplasia maligna dos ossos e das cartilagens articulares com lesão invasiva
+C419,"C419 - Neoplasia maligna dos ossos e cartilagens articulares, não especificados"
+C430,C430 - Melanoma maligno do lábio
+C431,"C431 - Melanoma maligno da pálpebra, incluindo as comissuras palpebrais"
+C432,C432 - Melanoma maligno da orelha e do conduto auditivo externo
+C433,C433 - Melanoma maligno de outras partes e partes não especificadas da face
+C434,C434 - Melanoma maligno do couro cabeludo e do pescoço
+C435,C435 - Melanoma maligno do tronco
+C436,"C436 - Melanoma maligno do membro superior, incluindo ombro"
+C437,"C437 - Melanoma maligno do membro inferior, incluindo quadril"
+C438,C438 - Melanoma maligno invasivo da pele
+C439,"C439 - Melanoma maligno de pele, não especificado"
+C440,C440 - Neoplasia maligna da pele do lábio
+C441,"C441 - Neoplasia maligna da pele da pálpebra, incluindo o canto"
+C442,C442 - Neoplasia maligna da pele da orelha e do conduto auditivo externo
+C443,C443 - Neoplasia maligna da pele de outras partes e de partes não especificadas da face
+C444,C444 - Neoplasia maligna da pele do couro cabeludo e do pescoço
+C445,C445 - Neoplasia maligna da pele do tronco
+C446,"C446 - Neoplasia maligna da pele do membro superior, incluindo ombro"
+C447,"C447 - Neoplasia maligna da pele do membro inferior, incluindo quadril"
+C448,C448 - Neoplasia maligna da pele com lesão invasiva
+C449,"C449 - Neoplasia maligna da pele, não especificada"
+C450,C450 - Mesotelioma da pleura
+C451,C451 - Mesotelioma do peritônio
+C452,C452 - Mesotelioma do pericárdio
+C457,C457 - Mesotelioma de outras localizações
+C459,"C459 - Mesotelioma, não especificado"
+C460,C460 - Sarcoma de Kaposi da pele
+C461,C461 - Sarcoma de Kaposi de tecidos moles
+C462,C462 - Sarcoma de Kaposi do palato
+C463,C463 - Sarcoma de Kaposi dos gânglios linfáticos
+C467,C467 - Sarcoma de Kaposi de outras localizações
+C468,C468 - Sarcoma de Kaposi de múltiplos órgãos
+C469,"C469 - Sarcoma de Kaposi, não especificado"
+C470,"C470 - Neoplasia maligna dos nervos periféricos da cabeça, face e pescoço"
+C471,"C471 - Neoplasia maligna dos nervos periféricos dos membros superiores, incluindo ombro"
+C472,"C472 - Neoplasia maligna dos nervos periféricos dos membros inferiores, incluindo quadril"
+C473,C473 - Neoplasia maligna dos nervos periféricos do tórax
+C474,C474 - Neoplasia maligna dos nervos periféricos do abdome
+C475,C475 - Neoplasia maligna dos nervos periféricos da pelve
+C476,C476 - Neoplasia maligna dos nervos periféricos do tronco
+C478,C478 - Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo com lesão invasiva
+C479,"C479 - Neoplasia maligna dos nervos periféricos e sistema nervoso autônomo, não especificados"
+C480,C480 - Neoplasia maligna do retroperitônio
+C481,C481 - Neoplasia maligna de partes especificadas do peritônio
+C482,C482 - Neoplasia maligna do peritônio
+C488,C488 - Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio com lesão invasiva
+C490,"C490 - Neoplasia maligna do tecido conjuntivo e tecidos moles da cabeça, face e pescoço"
+C491,"C491 - Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros superiores, incluindo ombro"
+C492,"C492 - Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros inferiores, incluindo quadril"
+C493,C493 - Neoplasia maligna do tecido conjuntivo e tecidos moles do tórax
+C494,C494 - Neoplasia maligna do tecido conjuntivo e tecidos moles do abdome
+C495,C495 - Neoplasia maligna do tecido conjuntivo e tecidos moles da pelve
+C496,C496 - Neoplasia maligna do tecido conjuntivo e tecidos moles do tronco
+C498,C498 - Neoplasia maligna do tecido conjuntivo e dos tecidos moles com lesão invasiva
+C499,"C499 - Neoplasia maligna do tecido conjuntivo e tecidos moles, não especificados"
+C500,C500 - Neoplasia maligna do mamilo e aréola
+C501,C501 - Neoplasia maligna da porção central da mama
+C502,C502 - Neoplasia maligna do quadrante superior interno da mama
+C503,C503 - Neoplasia maligna do quadrante inferior interno da mama
+C504,C504 - Neoplasia maligna do quadrante superior externo da mama
+C505,C505 - Neoplasia maligna do quadrante inferior externo da mama
+C506,C506 - Neoplasia maligna da porção axilar da mama
+C508,C508 - Neoplasia maligna da mama com lesão invasiva
+C509,"C509 - Neoplasia maligna da mama, não especificada"
+C510,C510 - Neoplasia maligna dos grandes lábios
+C511,C511 - Neoplasia maligna dos pequenos lábios
+C512,C512 - Neoplasia maligna do clitóris
+C518,C518 - Neoplasia maligna da vulva com lesão invasiva
+C519,"C519 - Neoplasia maligna da vulva, não especificada"
+C52,C52 - Neoplasia maligna da vagina
+C530,C530 - Neoplasia maligna do endocérvix
+C531,C531 - Neoplasia maligna do exocérvix
+C538,C538 - Neoplasia maligna do colo do útero com lesão invasiva
+C539,"C539 - Neoplasia maligna do colo do útero, não especificado"
+C540,C540 - Neoplasia maligna do istmo do útero
+C541,C541 - Neoplasia maligna do endométrio
+C542,C542 - Neoplasia maligna do miométrio
+C543,C543 - Neoplasia maligna do fundo do útero
+C548,C548 - Neoplasia maligna do corpo do útero com lesão invasiva
+C549,"C549 - Neoplasia maligna do corpo do útero, não especificado"
+C55,"C55 - Neoplasia maligna do útero, porção não especificada"
+C56,C56 - Neoplasia maligna do ovário
+C570,C570 - Neoplasia maligna da trompa de Falópio
+C571,C571 - Neoplasia maligna do ligamento largo
+C572,C572 - Neoplasia maligna do ligamento redondo
+C573,C573 - Neoplasia maligna do paramétrio
+C574,C574 - Neoplasia maligna dos anexos uterinos
+C577,C577 - Neoplasia maligna de outras partes especificadas dos órgãos genitais femininos
+C578,C578 - Neoplasia maligna dos órgãos genitais femininos com lesão invasiva
+C579,"C579 - Neoplasia maligna de órgão genital feminino, não especificado"
+C58,C58 - Neoplasia maligna da placenta
+C600,C600 - Neoplasia maligna do prepúcio
+C601,C601 - Neoplasia maligna da glande
+C602,C602 - Neoplasia maligna do corpo do pênis
+C608,C608 - Neoplasia maligna do pênis com lesão invasiva
+C609,"C609 - Neoplasia maligna do pênis, não especificado"
+C61,C61 - Neoplasia maligna da próstata
+C620,C620 - Neoplasia maligna do testículo criptorquídico
+C621,C621 - Neoplasia maligna do testículo tópico
+C629,"C629 - Neoplasia maligna do testículo, sem outras especificações"
+C630,C630 - Neoplasia maligna do epidídimo
+C631,C631 - Neoplasia maligna do cordão espermático
+C632,C632 - Neoplasia maligna do escroto
+C637,C637 - Neoplasia maligna de outros órgãos genitais masculinos especificados
+C638,C638 - Neoplasia maligna dos órgãos genitais masculinos com lesão invasiva
+C639,"C639 - Neoplasia maligna de órgão genital masculino, não especificado"
+C64,"C64 - Neoplasia maligna do rim, exceto pelve renal"
+C65,C65 - Neoplasia maligna da pelve renal
+C66,C66 - Neoplasia maligna dos ureteres
+C670,C670 - Neoplasia maligna do trígono da bexiga
+C671,C671 - Neoplasia maligna da cúpula da bexiga
+C672,C672 - Neoplasia maligna da parede lateral da bexiga
+C673,C673 - Neoplasia maligna da parede anterior da bexiga
+C674,C674 - Neoplasia maligna da parede posterior da bexiga
+C675,C675 - Neoplasia maligna do colo da bexiga
+C676,C676 - Neoplasia maligna do orifício uretérico
+C677,C677 - Neoplasia maligna do úraco
+C678,C678 - Neoplasia maligna da bexiga com lesão invasiva
+C679,"C679 - Neoplasia maligna da bexiga, sem outra especificações"
+C680,C680 - Neoplasia maligna da uretra
+C681,C681 - Neoplasia maligna da glândula parauretral
+C688,C688 - Neoplasia maligna dos órgãos urinários com lesão invasiva
+C689,"C689 - Neoplasia maligna de órgão urinário, não especificado"
+C690,C690 - Neoplasia maligna da conjuntiva
+C691,C691 - Neoplasia maligna da córnea
+C692,C692 - Neoplasia maligna da retina
+C693,C693 - Neoplasia maligna da coróide
+C694,C694 - Neoplasia maligna do corpo ciliar
+C695,C695 - Neoplasia maligna da glândula e canal lacrimal
+C696,C696 - Neoplasia maligna da órbita
+C698,C698 - Neoplasia maligna do olho e anexos com lesão invasiva
+C699,"C699 - Neoplasia maligna do olho, não especificado"
+C700,C700 - Neoplasia maligna das meninges cerebrais
+C701,C701 - Neoplasia maligna das meninges espinhais
+C709,"C709 - Neoplasia maligna da meninge, não especificada"
+C710,"C710 - Neoplasia maligna do cérebro, exceto lobos e ventrículos"
+C711,C711 - Neoplasia maligna do lobo frontal
+C712,C712 - Neoplasia maligna do lobo temporal
+C713,C713 - Neoplasia maligna do lobo parietal
+C714,C714 - Neoplasia maligna do lobo occipital
+C715,C715 - Neoplasia maligna do ventrículo cerebral
+C716,C716 - Neoplasia maligna do cerebelo
+C717,C717 - Neoplasia maligna do tronco cerebral
+C718,C718 - Neoplasia maligna do encéfalo com lesão invasiva
+C719,"C719 - Neoplasia maligna do encéfalo, não especificado"
+C720,C720 - Neoplasia maligna da medula espinhal
+C721,C721 - Neoplasia maligna da cauda eqüina
+C722,C722 - Neoplasia maligna do nervo olfativo
+C723,C723 - Neoplasia maligna do nervo óptico
+C724,C724 - Neoplasia maligna do nervo acústico
+C725,C725 - Neoplasia maligna de outros nervos cranianos e os não especificados
+C728,C728 - Neoplasia maligna do encéfalo e de outras partes do sistema nervoso central com lesão invasiva
+C729,"C729 - Neoplasia maligna do sistema nervoso central, não especificado"
+C73,C73 - Neoplasia maligna da glândula tireóide
+C740,C740 - Neoplasia maligna do córtex da supra-renal
+C741,C741 - Neoplasia maligna da medula da supra-renal
+C749,"C749 - Neoplasia maligna da glândula supra-renal, não especificada"
+C750,C750 - Neoplasia maligna da glândula paratireóide
+C751,C751 - Neoplasia maligna da glândula hipófise (pituitária)
+C752,C752 - Neoplasia maligna do conduto craniofaríngeo
+C753,C753 - Neoplasia maligna da glândula pineal
+C754,C754 - Neoplasia maligna do corpo carotídeo
+C755,C755 - Neoplasia maligna do corpo aórtico e outros paragânglios
+C758,"C758 - Neoplasia maligna com comprometimento pluriglandular, sem outra especificação"
+C759,"C759 - Neoplasia maligna de glândula endócrina, não especificada"
+C760,"C760 - Neoplasia maligna da cabeça, face e pescoço"
+C761,C761 - Neoplasia maligna do tórax
+C762,C762 - Neoplasia maligna do abdome
+C763,C763 - Neoplasia maligna da pelve
+C764,C764 - Neoplasia maligna do membro superior
+C765,C765 - Neoplasia maligna do membro inferior
+C767,C767 - Neoplasia maligna de outras localizações mal definidas
+C768,C768 - Neoplasia maligna de outras localizações e das mal definidas com lesão invasiva
+C770,"C770 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos da cabeça, face e pescoço"
+C771,C771 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos intratorácicos
+C772,C772 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos intra-abdominais
+C773,C773 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos axilares e dos membros superiores
+C774,C774 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos inguinais e dos membros inferiores
+C775,C775 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos intrapélvicos
+C778,C778 - Neoplasia maligna secundária e não especificada dos gânglios linfáticos de múltiplas regiões
+C779,"C779 - Neoplasia maligna secundária e não especificada de gânglio linfático, não especificado"
+C780,C780 - Neoplasia maligna secundária dos pulmões
+C781,C781 - Neoplasia maligna secundária do mediastino
+C782,C782 - Neoplasia maligna secundária da pleura
+C783,C783 - Neoplasia maligna secundária de outros órgãos respiratórios e não especificados
+C784,C784 - Neoplasia maligna secundária do intestino delgado
+C785,C785 - Neoplasia maligna secundária do intestino grosso e do reto
+C786,C786 - Neoplasia maligna secundária do retroperitônio e do peritônio
+C787,C787 - Neoplasia maligna secundária do fígado
+C788,C788 - Neoplasia maligna secundária de outros órgãos digestivos e não especificados
+C790,C790 - Neoplasia maligna secundária do rim e da pelve renal
+C791,"C791 - Neoplasia maligna secundária da bexiga, de outro órgão urinário e não especificado"
+C792,C792 - Neoplasia maligna secundária da pele
+C793,C793 - Neoplasia maligna secundária do encéfalo e das meninges cerebrais
+C794,C794 - Neoplasia maligna secundária de outras partes do sistema nervoso e não especificadas
+C795,C795 - Neoplasia maligna secundária dos ossos e da medula óssea
+C796,C796 - Neoplasia maligna secundária do ovário
+C797,C797 - Neoplasia maligna secundária das glândulas supra-renais (adrenais)
+C798,C798 - Neoplasia maligna secundária de outra localização especificada
+C80,"C80 - Neoplasia maligna, sem especificação de localização"
+C810,"C810 - Doença de Hodgkin, predominância linfocítica"
+C811,"C811 - Doença de Hodgkin, esclerose nodular"
+C812,"C812 - Doença de Hodgkin, celularidade mista"
+C813,"C813 - Doença de Hodgkin, depleção linfocítica"
+C817,C817 - Outra forma da doença de Hodgkin
+C819,"C819 - Doença de Hodgkin, não especificada"
+C820,"C820 - Linfoma não-Hodgkin, pequenas células clivadas, folicular"
+C821,"C821 - Linfoma não-Hodgkin, misto, de pequenas e grandes células clivadas, folicular"
+C822,"C822 - Linfoma não-Hodgkin, grandes células, folicular"
+C827,"C827 - Outros tipos de linfoma não-Hodgkin, folicular"
+C829,"C829 - Linfoma não-Hodgkin, folicular, não especificado"
+C830,"C830 - Linfoma não-Hodgkin difuso, pequenas células (difuso)"
+C831,"C831 - Linfoma não-Hodgkin difuso, pequenas células clivadas (difuso)"
+C832,"C832 - Linfoma não-Hodgkin difuso, misto, de pequenas e grandes células (difuso)"
+C833,"C833 - Linfoma não-Hodgkin difuso, grandes células (difuso)"
+C834,"C834 - Linfoma não-Hodgkin difuso, imunoblástico (difuso)"
+C835,"C835 - Linfoma não-Hodgkin difuso, linfoblástico (difuso)"
+C836,"C836 - Linfoma não-Hodgkin difuso, indiferenciado (difuso)"
+C837,C837 - Tumor de Burkitt
+C838,C838 - Outros tipos de linfoma não-Hodgkin difuso
+C839,"C839 - Linfoma não-Hodgkin difuso, não especificado"
+C840,C840 - Micose fungóide
+C841,C841 - Doença de Sézary
+C842,C842 - Linfoma da zona T
+C843,C843 - Linfoma linfoepitelióide
+C844,"C844 - Linfoma de células T, periférico"
+C845,C845 - Outros linfomas de células T e os não especificados
+C850,C850 - Linfossarcoma
+C851,"C851 - Linfoma de células B, não especificado"
+C857,C857 - Outros tipos especificados de linfoma não-Hodgkin
+C859,C859 - Linfoma não-Hodgkin de tipo não especificado
+C880,C880 - Macroglobulinemia de Waldenström
+C881,C881 - Doença de cadeia pesada alfa
+C882,C882 - Doença de cadeia pesada gama
+C883,C883 - Doença imunoproliferativa do intestino delgado
+C887,C887 - Outras doenças imunoproliferativas malignas
+C889,"C889 - Doença imunoproliferativa maligna, não especificada"
+C900,C900 - Mieloma múltiplo
+C901,C901 - Leucemia plasmocitária
+C902,C902 - Plasmocitoma extramedular
+C910,C910 - Leucemia linfoblástica aguda
+C911,C911 - Leucemia linfocítica crônica
+C912,C912 - Leucemia linfocítica subaguda
+C913,C913 - Leucemia pró-linfocítica
+C914,C914 - Leucemia de células pilosas
+C915,C915 - Leucemia de células T do adulto
+C917,C917 - Outras leucemias linfóides
+C919,"C919 - Leucemia linfóide, não especificada"
+C920,C920 - Leucemia mielóide aguda
+C921,C921 - Leucemia mielóide crônica
+C922,C922 - Leucemia mielóide subaguda
+C923,C923 - Sarcoma mielóide
+C924,C924 - Leucemia pró-mielocítica aguda
+C925,C925 - Leucemia mielomonocítica aguda
+C927,C927 - Outras leucemias mielóides
+C929,"C929 - Leucemia mielóide, não especificada"
+C930,C930 - Leucemia monocítica aguda
+C931,C931 - Leucemia monocítica crônica
+C932,C932 - Leucemia monocítica subaguda
+C937,C937 - Outras leucemias monocíticas
+C939,"C939 - Leucemia monocítica, não especificada"
+C940,C940 - Eritremia e eritroleucemia agudas
+C941,C941 - Eritremia crônica
+C942,C942 - Leucemia megacarioblástica aguda
+C943,C943 - Leucemia de mastócitos
+C944,C944 - Panmielose aguda
+C945,C945 - Mielofibrose aguda
+C947,C947 - Outras leucemias especificadas
+C950,C950 - Leucemia aguda de tipo celular não especificado
+C951,C951 - Leucemia crônica de tipo celular não especificado
+C952,C952 - Leucemia subaguda de tipo celular não especificado
+C957,C957 - Outras leucemias de tipo celular não especificado
+C959,C959 - Leucemia não especificada
+C960,C960 - Doença de Letterer-Siwe
+C961,C961 - Histiocitose maligna
+C962,C962 - Tumor maligno de mastócitos
+C963,C963 - Linfoma histiocítico verdadeiro
+C967,"C967 - Outras neoplasias malignas especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C969,"C969 - Neoplasia maligna dos tecidos linfático, hematopoético e tecidos correlatos, não especificada"
+C97,C97 - Neoplasias malignas de localizações múltiplas independentes (primárias)
